@@ -1,0 +1,7 @@
+{
+  "name": "OBO Digital Archive & Records Management System",
+  "description": "A professional digital records management system for the Office of the Building Official, featuring OCR, physical location tracking, and digital bookshelf organization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
