@@ -1,16 +1,16 @@
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1ywIXT4EiCOgBzcA30Klbr90DE-k2_3FJ
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:**  Node.js, docker, git
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1st step
+adto sa vs code terminal i git clone ni nga repo
+2nd
+type sa terminal "cd oboc4" to "cd docker" tp " cd standard"
+3rd
+run docker desktop specifically na "kvalencia/oboc4 container"
+4th
+ type sa vs code sa terminal
+docker compose up
+5th wait pila ka minutes man adto sa link na "http://localhost:7000"
