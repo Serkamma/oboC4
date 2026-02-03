@@ -1,7 +1,7 @@
 
 ## Run Locally
 
-**Prerequisites:**  Node.js, docker, git
+**Prerequisites:**  vscode, Node.js, docker, git
 
 
 1st step
